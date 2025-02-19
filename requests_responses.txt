@@ -1,0 +1,26 @@
+Timestamp: 2025-02-20T00:58:31.449184 Type: TEXT_TEXT
+Request: WHAT is madrid derby in short
+Response: com.bsl.wrapper.entity.GeminiResponse@7ce427d9
+------------------------
+Timestamp: 2025-02-20T01:00:30.482525 Type: TEXT_TEXT
+Request: Who is the current CM of Delhi, India
+Response: 
+The current Chief Minister of Delhi is Arvind Kejriwal.
+
+------------------------
+Timestamp: 2025-02-20T01:02:32.388511 Type: TEXT_TEXT
+Request: Who is the current CM of Delhi, India
+Response: \nThe current Chief Minister of Delhi is Arvind Kejriwal.\n
+------------------------
+Timestamp: 2025-02-20T01:05:51.385645 Type: TEXT_TEXT
+Request: Where is Barceloneta
+Response: Barceloneta is a neighborhood in **Barcelona, Spain**.
+------------------------
+Timestamp: 2025-02-20T04:28:24.562693 Type: TEXT_TEXT
+Prompt: Where is Barceloneta
+Response: Barceloneta is a neighborhood in **Barcelona, Spain**.
+------------------------
+Timestamp: 2025-02-20T04:51:02.660158 Type: MULTIMODAL_TEXT
+Prompt: Which city is this , can you give a short summaryFile:: type: image/jpeg name: Gemini_Generated_Image_hr2zdnhr2zdnhr2z.jpeg size: 1185623
+Response: That's Barcelona, Spain.  The image shows an aerial view of the Sagrada Família, Antoni Gaudí's iconic unfinished basilica, surrounded by the dense urban fabric of the city.
+------------------------
